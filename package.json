@@ -1,0 +1,9 @@
+{
+  "name": "cardano-and-nacl",
+  "version": "0.0.0",
+  "description": "cardano do not like nacl presence",
+  "main": "index.js",
+  "dependencies": {
+    "@emurgo/cardano-serialization-lib-nodejs": "^1.1.0"
+  }
+}
